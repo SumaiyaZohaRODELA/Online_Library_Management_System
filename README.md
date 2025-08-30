@@ -9,7 +9,7 @@ using PHP, MySQL, HTML/CSS/Bootstrap.
 
 
 --> User Register – Keeps track of individual users.
-![image alt](https://github.com/SumaiyaZohaRODELA/Online_Library_Management_System/blob/75eaa60890ea56fd935a991191f10c8453312de6/Screenshot%202025-08-30%20130825.png)
+![image alt](https://github.com/SumaiyaZohaRODELA/Online_Library_Management_System/blob/ef1f4b7f7bd1bc6d96ff249768efbc8a4b4a9018/image.png)
 
 --> Registration confirmation also available:
 ![image alt](https://github.com/SumaiyaZohaRODELA/Online_Library_Management_System/blob/75eaa60890ea56fd935a991191f10c8453312de6/Screenshot%202025-08-30%20131110.png)
